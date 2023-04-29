@@ -1,4 +1,4 @@
-# LittleLemon
+# LittleLemon - a project for APIs
 
 Login:          Password:           Token:
 user            user                7ea1ebf1336ce5085920f7cfdb3c0db32c1c4b70
